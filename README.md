@@ -11,4 +11,4 @@ A simple demo explanation on the architecture design and web application -  [Dem
 The projects backend is located at - [Backend](https://github.com/krish-17/Cloud_Backend)
 
 * *Date Created*: 21 07 2021
-* *Last Modification Date*: 31 07 2021
+* *Last Modification Date*: 13 08 2021
