@@ -2,6 +2,7 @@
 This repository contains the front end code of the Blog management application built using React, Redux, Material CSS.
 
 The code is deployed in the AWS EC2 instances as shown in the proposed cloud architecture design.
+![img.png](img.png)
 
 
 This project is guided by [Dr Jaume Manero](https://www.dal.ca/faculty/computerscience/faculty-staff.html).
